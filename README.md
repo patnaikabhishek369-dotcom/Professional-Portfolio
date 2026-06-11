@@ -100,6 +100,20 @@ Tools: AI, K-Means Clustering, Lean Six Sigma
 * Project Management
 * Business Intelligence
 
+## Featured Projects
+
+### Contractor Workforce Risk Intelligence System
+Repository:
+https://github.com/patnaikabhishek369-dotcom/Contractor-Workforce-Risk-Intelligence-System
+
+### HR Attrition Analytics Dashboard
+Repository:
+https://github.com/patnaikabhishek369-dotcom/HR-Attrition-Analytics-Dashboard
+
+### AI-Driven Training Needs Analysis
+Repository:
+https://github.com/patnaikabhishek369-dotcom/AI-Driven-Training-Needs-Analysis
+
 ## Contact
 
 Email: [patnaikabhishek369@gmail.com](mailto:patnaikabhishek369@gmail.com)
