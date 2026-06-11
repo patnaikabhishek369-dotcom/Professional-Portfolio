@@ -41,14 +41,20 @@ Aspiring Business Analyst and Project Management professional with experience in
 
 Tools: Power BI, SQL, Excel, DAX
 
+https://github.com/patnaikabhishek369-dotcom/Contractor-Workforce-Risk-Intelligence-System
+
+
 ### HR Attrition Analytics Dashboard
 
 Tools: Power BI, SQL, Excel
+
+https://github.com/patnaikabhishek369-dotcom/HR-Attrition-Analytics-Dashboard
 
 ### AI-Driven Training Needs Analysis & Workforce Optimization
 
 Tools: AI, K-Means Clustering, Lean Six Sigma
 
+https://github.com/patnaikabhishek369-dotcom/AI-Driven-Training-Needs-Analysis
 ---
 
 ## Certifications
