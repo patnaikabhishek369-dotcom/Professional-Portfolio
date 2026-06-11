@@ -94,7 +94,7 @@ Tools: AI, K-Means Clustering, Lean Six Sigma
 
 ## Career Interests
 
-* Data Analytics
+* Business Analytics
 * Business Analytics
 * HR Analytics
 * Project Management
